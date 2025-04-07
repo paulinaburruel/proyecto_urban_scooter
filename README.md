@@ -1,16 +1,30 @@
-# 🛠️ QA Manual Web Testing - [Nombre del Sitio]
+# 🛠 Pruebas de la aplicación Urban Scooter
 
 ## 📌 Descripción del Proyecto
-Este proyecto consiste en un **análisis manual de calidad** realizado en [Nombre del Sitio], donde se evaluaron distintos aspectos como **funcionalidad, UI/UX, compatibilidad y accesibilidad**. Se documentaron los hallazgos en un **reporte estructurado** con casos de prueba y lista de bugs encontrados.
+Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distintos aspectos como **funcionalidad**, **interfaz de usuario (UI)** y **compatibilidad**.
+
+### Actividades realizadas:
+
+- Elaboración de un **mapa mental** del sistema.
+- Desarrollo de una **lista de verificación** de requisitos funcionales para la pantalla *"Estado del pedido"*.
+- **Validación de datos** en los campos de la pantalla *"Realizar pedido"*.
+- Diseño y documentación de **casos de prueba** para la aplicación móvil.
+- Revisión y ejecución de una **lista de comprobación de la API**.
+- Se ejecutaron en su totalidad las pruebas diseñadas.
+- Todos los **bugs encontrados fueron documentados**.
 
 ## 📂 Estructura del Repositorio
 ```
 📁 QA_Manual_Web_Testing
 │-- 📄 README.md  
-│-- 📄 reporte_pruebas.md  
-│-- 📁 evidencias/  
-│   │-- error_login.png  
-│   │-- responsive_issue.png  
+│-- 📄 mapa_mental.md
+│-- 📄 lista_de_comprobacion.md
+│-- 📄 validacion_de_datos.md
+│-- 📄 casos_de_prueba.md
+│-- 📄 lista_de_comprobacion_api.md
+│-- 📁 evidencias/
+│   │-- error_login.png
+│   │-- responsive_issue.png
 ```
 - `README.md`: Información general del proyecto.
 - `reporte_pruebas.md`: Documento con los casos de prueba y errores detectados.
@@ -21,7 +35,6 @@ Las pruebas se realizaron siguiendo un enfoque **manual** y abarcando las siguie
 - **✅ Pruebas Funcionales**: Se verificó que los botones, formularios y enlaces funcionen correctamente.
 - **🎨 Pruebas UI/UX**: Se evaluó la experiencia de usuario y el diseño visual.
 - **🌐 Pruebas de Compatibilidad**: Se probó en distintos navegadores y dispositivos.
-- **♿ Pruebas de Accesibilidad**: Se revisó si el sitio sigue buenas prácticas de accesibilidad.
 
 ## 📋 Resumen de Resultados
 🔹 **Número total de bugs encontrados:** [Ejemplo: 5]  
