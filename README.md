@@ -14,22 +14,27 @@ Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distin
 - Todos los **bugs encontrados fueron documentados**.
 
 ## 📂 Estructura del Repositorio
-``
-📁 QA_Manual_Web_Testing  
-│-- 📄 README.md  
-│-- 📄 mapa_mental.md  
-│-- 📄 lista_de_comprobacion.md  
-│-- 📄 validacion_de_datos.md  
-│-- 📄 casos_de_prueba.md  
-│-- 📄 lista_de_comprobacion_api.md  
-│-- 📁 evidencias/  
-│   │-- error_login.png  
-│   │-- responsive_issue.png  
-``
 
-- `README.md`: Información general del proyecto.
-- [mapa_mental.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/mapa_mental.md): Documento con los casos de prueba y errores detectados.
-- `evidencias/`: Carpeta con capturas de pantalla de los bugs encontrados.
+``` 
+ 📁 QA_Manual_Web_Testing  
+ │-- 📄 README.md  
+ │-- 📄 mapa_mental.md
+ │-- 📄 lista_de_comprobacion.md
+ │-- 📄 validacion_de_datos.md
+ │-- 📄 casos_de_prueba.md
+ │-- 📄 lista_de_comprobacion_api.md
+ │-- 📁 evidencias/
+ │   │-- error_login.png
+ │   │-- responsive_issue.png
+ ```
+
+- [README.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/README.md) : Información general del proyecto.
+- [mapa_mental.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/mapa_mental.md)  
+- [lista_de_comprobacion.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/lista_de_comprobacion.md)  
+- [validacion_de_datos.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/validacion_de_datos.md)  
+- [casos_de_prueba.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/casos_de_prueba.md)  
+- [lista_de_comprobacion_api.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/lista_de_comprobacion_api.md)
+- 📁 Capturas/: Carpeta con capturas de pantalla de los bugs encontrados.
 
 ## 🔎 Metodología
 Las pruebas se realizaron siguiendo un enfoque **manual** y abarcando las siguientes áreas:
