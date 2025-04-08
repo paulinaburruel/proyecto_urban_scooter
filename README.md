@@ -14,10 +14,10 @@ Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distin
 - Todos los **bugs encontrados fueron documentados**.
 
 ## 📂 Estructura del Repositorio
-
+``
 📁 QA_Manual_Web_Testing  
 │-- 📄 README.md  
-│-- 📄 [mapa_mental.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/mapa_mental.md)  
+│-- 📄 mapa_mental.md  
 │-- 📄 lista_de_comprobacion.md  
 │-- 📄 validacion_de_datos.md  
 │-- 📄 casos_de_prueba.md  
@@ -25,9 +25,10 @@ Se probó la funcionalidad de la aplicación **Urban Scooter**, evaluando distin
 │-- 📁 evidencias/  
 │   │-- error_login.png  
 │   │-- responsive_issue.png  
+``
 
 - `README.md`: Información general del proyecto.
-- `reporte_pruebas.md`: Documento con los casos de prueba y errores detectados.
+- [mapa_mental.md](https://github.com/paulinaburruel/Plantilla-proyecto/blob/main/mapa_mental.md): Documento con los casos de prueba y errores detectados.
 - `evidencias/`: Carpeta con capturas de pantalla de los bugs encontrados.
 
 ## 🔎 Metodología
