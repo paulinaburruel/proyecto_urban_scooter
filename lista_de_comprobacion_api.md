@@ -1,5 +1,7 @@
 ## Lista de comprobación de la API de la aplicación Urban Scooter
 
+**Informe de errores en JIRA** 👉 [Informe4](https://paulinaburruel.atlassian.net/issues/?jql=project+%3D+%22S94%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNWEwMTM4YTAwZmZjNDljY2FlMmE2OTM1OGE3MzExNDUiLCJwIjoiaiJ9)
+
 | ID   | Nombre del caso de prueba| Resultado esperado| Estado| Enlace al informe de errores|
 |:-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------|:-------------|:-----------------------------|
 | Crear un mensajero: POST /api/v1/courier                         |                                                                                                                      |                                                                              |              |                              |
