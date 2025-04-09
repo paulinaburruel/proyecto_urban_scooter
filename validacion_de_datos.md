@@ -1,5 +1,8 @@
 ## Validacion de datos para los campos de la pantalla "Realizar pedido"
 
+**Informe de errores en JIRA** 👉 [Informe2](https://paulinaburruel.atlassian.net/issues/?jql=project+%3D+%22S9%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjhmMTNhYTJhYzk2NGQyMGFlMTdjYzU5NDJiZTE2MjMiLCJwIjoiaiJ9)
+
+
 | Campo   | Nombre de la clase| Límites| Datos de prueba dentro de la clase (contenido del campo)| Datos de prueba en los límites (contenido del campo)| Explicación | Estado - Versión 1 - Chrome 85| Estado - Versión 2 - Opera 71| Enlace al informe de errores|
 |:-----------------------------------------------------------------------|:---------------------------------------------------------------------------------------|:--------------------|:------------------------------------------------------------------|:---------------------------------------------------------|:-------------------------------|:--------------------|:--------------------|:-----------------------------|
 | **Formulario - "Para quién es el scooter"**                            |                                                                                        |                     |                                                                   |                                                          |                                |                     |                     |                              |
