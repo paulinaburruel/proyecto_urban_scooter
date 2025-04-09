@@ -1,5 +1,7 @@
 ## Lista de comprobación de los requisitos de función de la pantalla "Estado del pedido". 
 
+**Informe de errores en JIRA** 👉 [Informe1](https://paulinaburruel.atlassian.net/issues/?jql=project+%3D+%22S92%22+ORDER+BY+created+DESC&atlOrigin=eyJpIjoiNjg3ZGU0MTM4NTZhNDI2ZjgwMjA5OTI5YmY5NzU4ZjEiLCJwIjoiaiJ9)
+
 | #                                                                                        | Descripción de la revisión                                                                                                                                                                            | Estado de la versión 1 Chrome 85 1920x1080            | Estado de la versión 2 Opera 71 1280x720             | Enlace al informe de errores                      |
 |:-----------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:-----------------------|:-----------------------------|
 | **Flujo de la pantalla "Realizar pedido" a la pantalla "Estado del pedido".**                |                                                                                                                                                                                                       |                        |                        |                              |
