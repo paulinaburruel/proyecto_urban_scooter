@@ -55,9 +55,9 @@ Las pruebas se realizaron siguiendo un enfoque **manual** y abarcando las siguie
 - **🌐 Pruebas de Compatibilidad**: Se probó en distintos navegadores y dispositivos.
 
 ## 📋 Resumen de Resultados
-🔹 **Número total de bugs encontrados:** [Ejemplo: 5]  
-🔹 **Severidad:** [Ejemplo: 2 críticos, 3 menores]  
-🔹 **Hallazgo más importante:** [Ejemplo: Error en login impide acceso]  
+🔹 **Número total de bugs encontrados:** 68  
+🔹 **Severidad:** 1 Bloqueante, 23 críticos, 25 Alta, 9 Media, 6 Baja, 4 Muy baja.  
+🔹 **Hallazgo más importante:** El error **S82-2** en la pantalla *¿Deseas hacer un pedido?* ? impide a los usuarios crear pedidos en la versión de Chrome. Esto podría traducirse en la pérdida de ventas, frustración para los usuarios y una percepción negativa de la aplicación.
 
 <!-- 📄 **Consulta el reporte detallado en [`reporte_pruebas.md`](reporte_pruebas.md)** -->
 
@@ -74,5 +74,5 @@ Si deseas contribuir o replicar este análisis en otro sitio web, ¡eres bienven
 
 ---
 
-💡 **Este proyecto es una demostración de habilidades de QA Manual.**  
+<!--## 💡 **Este proyecto es una demostración de habilidades de QA Manual.**  
 🚀 **Creado por [Tu Nombre].** -->
